@@ -147,8 +147,6 @@
                                                     </div>
                                                     <div class="modal-footer">
                                                         <div class="hstack gap-2 justify-content-end">
-                                                            <a href="" class="btn btn-primary"> <i
-                                                                    class="fa fa-plus"></i> Lihat Anggota </a>
                                                             <button type="button" class="btn btn-danger"
                                                                 data-bs-dismiss="modal">Close</button>
                                                         </div>

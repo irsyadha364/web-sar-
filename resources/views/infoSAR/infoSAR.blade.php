@@ -99,7 +99,7 @@
                                             <div class="mb-3">
                                                 <label class="form-label">Nama dan Nomor Pemesan</label>
                                                 <input type="text" class="form-control"
-                                                    value="{{ $input->namaPemesan }} - {{ $input->nomorPemesan }}"
+                                                    value="{{ $input->namaPemohon }} - {{ $input->nomorPemohon }}"
                                                     readonly />
                                             </div>
 
